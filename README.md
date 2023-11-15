@@ -1,4 +1,4 @@
-Python script to generate Posters and Flyers for GP Practices using the GPREG service.
+# Python script to generate Posters and Flyers for GP Practices using the GPREG service.
 
 The posters and flyers contain a unique QR code that goes to the practices unique URL on the GPREG service.
 
